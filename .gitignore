@@ -1,4 +1,8 @@
 ### C ###
+#Paths
+Release/
+Debug/
+
 # Prerequisites
 *.d
 
